@@ -1,0 +1,18 @@
+{
+  "name": "youtube-comments-export",
+  "version": "1.0.0",
+  "description": "Export YouTube comments and replies to CSV, Excel (XLSX) or JSONL for many videos, a channel or a search, via the yugenox/youtube-scraper Apify Actor (billed per video, not per comment).",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.6"
+  },
+  "scripts": {
+    "help": "node export.mjs --help"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0",
+    "write-excel-file": "^4.1.1"
+  }
+}

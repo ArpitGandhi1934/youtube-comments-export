@@ -1,0 +1,5 @@
+# One YouTube URL per line: videos (watch?v=, youtu.be/, /shorts/) or 11-character video ids.
+# A playlist URL takes its first --videos videos, a channel URL its latest. Lines starting with # are ignored.
+https://www.youtube.com/watch?v=jNQXAC9IVRw
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://www.youtube.com/watch?v=9bZkp7q19f0
