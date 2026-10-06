@@ -171,6 +171,7 @@ Comments are public, but commenters' handles and comment text are personal data 
 ## Samples, testing and legal
 
 - The sample comes from one run on 2026-10-06 (Actor build 0.1.14) through `export.mjs`; the .csv and .xlsx were then written from the pseudonymized JSON with `--from`, and `export.py` writes the same CSV byte for byte. Input keys checked against the Actor's live input schema the same day.
+- Disclosure: the YouTube Scraper Actor these scripts call is built by the author of this repo.
 - Not affiliated with or endorsed by YouTube or Google. YouTube is a trademark of Google LLC.
 - MIT licensed. Made by Yugenox Corporation.
 
